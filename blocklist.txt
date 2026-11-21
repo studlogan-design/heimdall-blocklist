@@ -1,0 +1,8 @@
+# heimdall-blocklist v1
+# version: 2
+#
+# Scam website list for Heimdall. Signed: edits made here without
+# re-running tools/sign-blocklist.sh will be ignored by the phones.
+#
+# Test entry (open http://heimdall-test2.invalid to see a block screen).
+domain heimdall-test2.invalid
